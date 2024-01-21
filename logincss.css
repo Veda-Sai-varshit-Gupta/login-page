@@ -1,0 +1,8 @@
+body{background-color:black;}
+h1{font-family:copperplate; color:orange; text-shadow:2px 2px 5px blue;}
+#uname{width:20%; padding:12px 20px; margin:8px 0; border-radius:4px;}
+#password{width:20%; padding:12px 20px; margin:8px 0; border-radius:4px;}
+#user{font-size:30px; font-style:Monaco; color:yellow;}
+#pass{font-size:30px; font-style:Monaco; color:yellow;}
+#login{width:10%; border-radius:20%}
+#reset{width:10%; border-radius:20%}

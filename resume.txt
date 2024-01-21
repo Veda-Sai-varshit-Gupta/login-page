@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{background-color:"#rgba(0,0,0,0)";}
+h1{color:paleblue;}
+</style>
+
+<h1><center><font size="20" color="paleblue"><B><U>CURRICULUM VITAE</U></B></center></h1>
+
+</head>
+<body bgcolor="black">
+<p>
+<font size="16" color="white">G VEDA SAI VARSHIT GUPTA <right> <img src="C:\Users\hp\Downloads\my linkedin profile.jpg" height="250" width="250" align="right">
+<br>
+
+<font color="white" size="12">EMAIL:<font color="white">gvsvg2004@gmail.com
+
+<br><font color:"white"> Phone no:6300982455<br>Adress:3-52,Shirdi Sai nagar,Aswaraopeta,507301.
+<hr />
+<br>
+
+
+<h3 style="color:red;"><font size:"19"><U>CAREER OBJECTIVE:</U></h3>
+<font color:"white> Obtain a responsible position in the organisation with best capabilities,skills and knowledge
+
+
+<h3><font color="white"><U>ACADEMIC QUALIFICATIONS:</U></h3>
+10th from DAV<br>
+12th from DAV<br>
+B.Tech from Woxsen University
+<br>
+
+<h3><U>PROFESSIONAL SKILLS</U></h3>
+JAVA<br>
+HTML<br>
+CSS<br>
+Python<br>
+MYSQL<br>
+MongoDB
+<br>
+<h3><U>WORK EXPERIENCE:</U></h3>
+Fresher
+<br>
+<h3><U>
+PERSONAL DETAILS:
+</U></h3>
+Father's Name:G Ramachandra Rao<br>
+Date of birth     :     5th October 2004<br>
+Gender            :     Male<br>
+Nationality       :     Indian<br>
+Marital Status    :     Unmarried<br>
+Languages known   :     Telugu,Hindi & English<br>
+Hobbies           :     Reading books, playing Cricket, listening podcasts
+</p>
+
+
+
+
+</body>
+</html>

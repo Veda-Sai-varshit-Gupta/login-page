@@ -1,0 +1,20 @@
+body{background-color:black;}
+h1{font-family:copperplate; color:orange; text-shadow:2px 2px 5px blue;}
+#fname{width:20%; padding:12px 20px; margin:8px 0; border-radius:4px;}
+#lname{width:20%; padding:12px 20px; margin:8px 0; border-radius:4px;}
+#dob{width:20%; padding:12px 20px; margin:8px 0; border-radius:4px;}
+#uname{width:20%; padding:12px 20px; margin:8px 0; border-radius:4px;}
+#tel{width:20%; padding:12px 20px; margin:8px 0; border-radius:4px;}
+#gender{width:20%; padding:12px 20px; margin:8px 0; border-radius:4px;}
+#email{width:20%; padding:12px 20px; margin:8px 0; border-radius:4px;}
+#user{font-size:30px; font-style:Monaco; color:yellow;}
+#pass{font-size:30px; font-style:Monaco; color:yellow;}
+#f{font-style:courier; color:yellow;}
+#l{font-style:courier; color:yellow;}
+#birth{font-style:courier; color:yellow;}
+#gen{font-style:courier; color:yellow;}
+#ph{font-style:courier; color:yellow;}
+#mail{font-style:courier; color:yellow;}
+#un{font-style:courier; color:yellow;}
+#reg{width:10%; border-radius:15%;}
+#reset{width:10%; border-radius:15%;}

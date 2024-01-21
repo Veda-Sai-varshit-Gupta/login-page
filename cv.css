@@ -1,0 +1,6 @@
+body{background-color:#000000;}
+h1{font-family:red_serif; color:red; font-size:50px}
+h3{color:blue; font-size:40px}
+p{color:yellow; font-family:courier}
+
+img{border-radius:50%; border-style: solid; border-color:blue;}
