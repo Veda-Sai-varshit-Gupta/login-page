@@ -2,7 +2,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<link rel="stylesheet" href="C:\Users\hp\OneDrive\Desktop\logincss.css">
+<link rel="stylesheet" href="logincss.css">
 <center><h1>Login Page</h1></center>
 </head>
 <body>
@@ -17,8 +17,8 @@
 <input type="reset" name="reset" value="reset" id="reset">
 </form>
 <br>
-<font color="orange">Didn't have an account?<a href="C:\Users\hp\OneDrive\Desktop\000 webhost\registration page.html">Sign up</a>
-<a href="C:\Users\hp\OneDrive\Desktop\000 webhost\resumecss.html">
+<font color="orange">Didn't have an account?<a href="registration page.html">Sign up</a>
+<a href="resumecss.html">
 <button type="button">VIEW CV</button>
 </a>
 
