@@ -16,5 +16,10 @@ h1{font-family:copperplate; color:orange; text-shadow:2px 2px 5px blue;}
 #ph{font-style:courier; color:yellow;}
 #mail{font-style:courier; color:yellow;}
 #un{font-style:courier; color:yellow;}
+#upper{font-style:courier; color:yellow;}
+#lower{font-style:courier; color:yellow;}
+#number{font-style:courier; color:yellow;}
+#length{font-style:courier; color:yellow;}
+#sp_char{font-style:courier; color:yellow;}
 #reg{width:10%; border-radius:15%;}
 #reset{width:10%; border-radius:15%;}
