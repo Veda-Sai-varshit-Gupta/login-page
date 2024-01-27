@@ -4,6 +4,7 @@
 <html>
 <head>
 <link rel="stylesheet" href="registration page.css">
+<script src="C:\Users\hp\OneDrive\Desktop\registration page.js"></script>
 <center><h1>Registration Page</h1></center>
 </head>
 <body>
@@ -21,15 +22,15 @@
 <option value="Others">Others</option>
 </select><br><br>
 <label for="tel" id="ph">Phone no:</label>
-<input type="tel" name="Phone no" id="tel" pattern="[0-9]{10}" placeholder="0000000000" required><br><br>
+<input type="tel" name="Phone no" id="tel" pattern="[0-9]{10}" placeholder="0000000000"  required><br><br>
 <label for="email" id="mail">Email:</label>
 <input type="email" id="email" name="email"><br><br>
 <fieldset>
 <label for="uname" id="un">User Name:</label>
 <input type="text" id="uname" name="uname" required><br><br>
 
-<input type="password" id="pass" name="password" placeholder="Password" required><br>
-<input type="password" id="cpass" name="cpassword" placeholder="Confirm Password" required><br>
+<input type="password" id="pass" name="password" placeholder="Password" onkeyup="return validate()" required><br>
+<input type="password" id="cpass" name="cpassword" placeholder="Confirm Password" oninput="return confirm()" required><br>
 
 
 
