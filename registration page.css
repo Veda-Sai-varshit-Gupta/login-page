@@ -7,8 +7,8 @@ h1{font-family:copperplate; color:orange; text-shadow:2px 2px 5px blue;}
 #tel{width:20%; padding:12px 20px; margin:8px 0; border-radius:4px;}
 #gender{width:20%; padding:12px 20px; margin:8px 0; border-radius:4px;}
 #email{width:20%; padding:12px 20px; margin:8px 0; border-radius:4px;}
-#user{font-size:30px; font-style:Monaco; color:yellow;}
-#pass{font-size:30px; font-style:Monaco; color:yellow;}
+#user{font-size:30px; font-style:Monaco; color:black;}
+#pass{font-size:30px; font-style:Monaco; color:black;}
 #f{font-style:courier; color:yellow;}
 #l{font-style:courier; color:yellow;}
 #birth{font-style:courier; color:yellow;}
