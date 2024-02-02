@@ -5,6 +5,9 @@ function validate(){
     var number = document.GetElementById.innerHTML('number');
     var length = document.GetElementById.innerHTML('length');
     var sp_char = document.GetElementById.innerHTML('sp_char');
+    pass.onkeyup=() =>{
+        console.log("Functionj is called")
+    }
 if(pass.value.match(/[0-9]/)){
     num.style.color='green'
 }
