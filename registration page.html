@@ -29,7 +29,7 @@
 <label for="uname" id="un">User Name:</label>
 <input type="text" id="uname" name="uname" required><br><br>
 
-<input type="password" id="pass" name="password" placeholder="Password" onkeyup="return validate()" required><br>
+<input type="password" id="pass" name="password" placeholder="Password" ><br>
 <input type="password" id="cpass" name="cpassword" placeholder="Confirm Password" oninput="return confirm()" required><br>
 
 
@@ -44,7 +44,7 @@
     <li id="length">Atleast 8 characters</li>
   </ul>
 </div>
-<input type="submit" value="register" id="reg">
+<input type="submit" value="register" id="reg" onclick="return validate()" required>
 <input type="reset" name="reset" value="reset">
 </form>
 </body>
