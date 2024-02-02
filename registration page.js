@@ -1,10 +1,10 @@
 function validate(){
-    var password = document.GetElementById('pass');
-    var password = document.GetElementById('upper');
-    var password = document.GetElementById('lower');
-    var password = document.GetElementById('number');
-    var password = document.GetElementById('length');
-    var password = document.GetElementById('sp_char');
+    var password = document.GetElementById.innerHTML('pass');
+    var password = document.GetElementById.innerHTML('upper');
+    var password = document.GetElementById.innerHTML('lower');
+    var password = document.GetElementById.innerHTML('number');
+    var password = document.GetElementById.innerHTML('length');
+    var password = document.GetElementById.innerHTML('sp_char');
 if(pass.value.match(/[0-9]/)){
     num.style.color='green'
 }
